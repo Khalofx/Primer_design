@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.tsv
+*.fa
+*.bed
+primer3_output_*/
