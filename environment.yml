@@ -1,0 +1,8 @@
+name: autoprimer3
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - primer3
+  - curl
+  - coreutils
